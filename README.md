@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for the "Data Scientist Toolbox" Mooc on cousera
+Repository for the "Data Scientist Toolbox" Mooc on coursera
